@@ -3,7 +3,7 @@
 ## Resumen
 
 Esta web esta deployada en Netlify, y se puede acceder desde el siguiente link:
-[Challenge chat with openAI](https://6502414fbc538d656c9c08a2--jazzy-salmiakki-0f0cb0.netlify.app/)
+[Challenge chat with openAI](https://65024a7e989e4d6581f2f542--jazzy-salmiakki-0f0cb0.netlify.app/)
 
 ## Tecnologia utilizada
 - React
