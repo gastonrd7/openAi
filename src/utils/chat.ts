@@ -30,7 +30,6 @@ export const mapIndexSignatureToArray = (history: { [historyChatId: string]: ICh
     const chatItem = history[chatId];
     chatsItems.push(chatItem);
   }
-
   return chatsItems;
 }
 
