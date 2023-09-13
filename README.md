@@ -29,6 +29,8 @@ npm install
 ```
 npm start
 ```
+Frontend local: [http://localhost:3000](http://localhost:3000)
+
 Para correr los test ejecutar el siguiente comando (genere test de utils a modo de ejemplo ya que llevan mucho tiempo):
 ```
 npm run test
