@@ -1,0 +1,12 @@
+.text {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.buttonNewChat {
+  border-radius: 6px;
+  background-color: #F97316;
+  width: 283px;
+  height: 39px;
+  text-align: center;
+}

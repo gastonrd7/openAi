@@ -1,0 +1,19 @@
+.button {
+  border: '1px solid white';
+  margin-right: '10px';
+  border-radius: '4px';
+}
+
+.buttonSelected {
+  border: 1px solid white;
+  margin-right: 10px;
+  border-radius: 4px;
+  background-color: silver;
+}
+
+.buttonSettings {
+  border: 1px solid white;
+  margin-right: 10px;
+  border-radius: 4px;
+  margin-left: auto;
+}

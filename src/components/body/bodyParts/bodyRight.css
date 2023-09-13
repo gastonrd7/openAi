@@ -1,0 +1,35 @@
+.containerRight {
+  flex: 0 0 calc(66.66% - 16px);
+  margin-right: '16px';
+  min-height: 100vh;
+}
+
+.titleChatPerson {
+  font-size: 16px;
+  color: #10B981;
+  line-height: 21.6px;
+  border-right: 20px;
+}
+
+.titleOpenAi {
+  font-size: 16px;
+  color: #F97316;
+  line-height: 21.6px;
+  border-right: 20px;
+}
+
+.timeChatPerson {
+  font-size: 13px;
+  color: #94A3B8;
+  line-height: 21.6px;
+}
+
+.textArea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #CBD5E1;
+  border-radius: 5px;
+  font-size: 16px;
+  resize: none;
+  font-family: Söhne,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,Helvetica Neue,Arial,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+}
