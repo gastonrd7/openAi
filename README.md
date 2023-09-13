@@ -20,8 +20,8 @@ Esta web esta deployada en Netlify, y se puede acceder desde el siguiente link:
 
 ## Instalacion y ejecucion de la web localmente
 Parados en la raiz del repositorio crear un archivo llamado .env
-Agregarle la siguiente linea de codigo (es mi privateKey 
-```REACT_APP_OPENAI_API_KEY=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```
+En el mail donde entrego el challenge esta la linea que se debe agregar en este archivo, como es mi privateKey me puede bloquear por politicas de uso openAI
+```REACT_APP_OPENAI_API_KEY={la key privada esta en el mail donde entrego el challenge}```
 
 ```
 npm install
