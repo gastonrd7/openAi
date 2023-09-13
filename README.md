@@ -35,3 +35,12 @@ Para correr los test ejecutar el siguiente comando (genere test de utils a modo 
 ```
 npm run test
 ```
+
+Dejo el link del challenge por practicidad: https://github.com/renaissai/renaiss-test-frontend
+
+### Notas a tener en cuenta a la hora de evaluar el challenge
+- La estrategia aplicada fue poder terminar el MVP del challenge, y luego ir refinando cada una de las partes que lo componen.
+- Debo aclarar que no soy un experto en css, mi estrategia fue componentizar la web y luego modularizar la logica, omiti hacerla responsive para mobile, y tambien pixel perfect, ya que ponia en riesgo el poder llegar con todo el desarrollo.
+- Lo boton "Atras" del header, el buscador que esta en la parte superior izquierda, y el icono "barita magica" que esta al lado del boton submit del isertar Prompt no desarrolle su logica ni los dibuje ya que no sabia cual eran su funcionalidad.
+- LA ruedita de configuracion para cambiar el Model con el que se debe interactuar con openAI no fue desarrollada so logica por falta de tiempo.
+- Como todo MVP, todo esta sujeto a mejora, pero la idea es poder expresar el conocimiento y no pude detenerme en implementaciones faciles pero tediosas, como el pixel perfect o suponer e imaginar algunos botones que no tenian una clara definiicion su comportamiento, por ese motivo los test no estan completos para todo el repositorio ya que su implementacion no es compleja pero requiere de tiempo, cosa que fue un desafio lograr hacer este MPV con mi trabajo en apralelo.
